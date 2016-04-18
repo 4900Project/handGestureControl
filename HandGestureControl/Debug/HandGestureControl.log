@@ -1,0 +1,20 @@
+﻿  SingleColorDetect.cpp
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\trackcolor.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(92): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(92): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(93): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(93): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(94): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(94): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(95): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(95): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(96): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(96): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(97): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(97): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(154): warning C4101: 'trackColor': unreferenced local variable
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\singlecolordetect.cpp(151): warning C4101: 'returnTime0': unreferenced local variable
+  ContourTimer.cpp
+c:\users\jessica\documents\visual studio 2015\projects\handgesturecontrol\handgesturecontrol\trackcolor.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  HandGestureControl.vcxproj -> C:\Users\Jessica\Documents\Visual Studio 2015\Projects\HandGestureControl\Debug\HandGestureControl.exe
